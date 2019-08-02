@@ -4,6 +4,8 @@ using namespace std;
 
 typedef unsigned long long ll;
 
+// According to euclid's theorem regarding pythagoreas triplet 
+
 
 int main()
 
