@@ -19,7 +19,4 @@ cs++;
 }
 }
 
-    Author Sushant
-    Date 00:51
-    Comments 1 comment
 
